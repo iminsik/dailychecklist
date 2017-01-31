@@ -1,3 +1,4 @@
 # TODO
 
-- Edit Resume
+- Refine Resume
+- Keep moving on Kubernetes learning
